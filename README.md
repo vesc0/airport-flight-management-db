@@ -80,7 +80,7 @@ Full table-to-entity mappings:
 
 The SQL schema defining all tables, relationships, constraints, triggers, and indexes can be found here:
 
-[**airport-management-system.sql**](./airport-management-system.sql)
+[**airport-flight-management-system.sql**](./airport-flight-management-system.sql)
 
 This script includes:
 
@@ -110,13 +110,13 @@ To get started with this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vesc0/airport-management-db.git
-   cd airport-management-db
+   git clone https://github.com/vesc0/airport-flight-management-db.git
+   cd airport-flight-management-db
    ```
 2. Open your SQL environment (e.g., MySQL Workbench, PostgreSQL, or SQLite).
 3. Execute the schema script:
    ```bash
-   SOURCE airport-management-system.sql;
+   SOURCE airport-flight-management-system.sql;
    ```
 4. (Optional) Load example data:
    ```bash
