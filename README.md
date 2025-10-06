@@ -1,4 +1,4 @@
-# Airport Management System
+# Airport Flight Management Database
 
 This project focuses on conceptual and logical database design with full relational mapping. Triggers and constraints enforce realistic aviation business logic. Can be extended with API layers or admin dashboards for operational use.
 
